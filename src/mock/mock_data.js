@@ -61,28 +61,21 @@ export const mockData = {
           "name": "VOX",
           "url": "http://rihou.cc:88/demo.php",
           "description": "长按复制链接地址",
-          "icon": "https://www.faviconextractor.com/favicon/rihou.cc:88"
+          "icon": ""
         },
         {
           "id": "claude",
           "name": "牛二",
           "url": "https://9280.kstore.vip/newwex.json",
           "description": "长按复制链接地址",
-          "icon": "https://www.faviconextractor.com/favicon/9280.kstore.vip"
-        },
-        {
-          "id": "cursor",
-          "name": "饭太硬",
-          "url": "http://www.饭太硬.com/tv",
-          "description": "长按复制链接地址",
-          "icon": "https://www.faviconextractor.com/favicon/www.xn--sss604efuw.com"
+          "icon": "https://pan.szfx.top/down.php/6bb5d977b5d5b7c901e1ca5000885665.jpg"
         },
         {
           "id": "midjourney",
           "name": "摸鱼儿",
           "url": "http://摸鱼儿.cc",
           "description": "长按复制链接地址",
-          "icon": "https://www.faviconextractor.com/favicon/xn--v4q818bf34b.cc"
+          "icon": "https://pan.szfx.top/down.php/b311acdbe836d271ccf755960732bc30.jpg"
         },
         {
           "id": "copilot",
@@ -90,6 +83,27 @@ export const mockData = {
           "url": "https://9877.kstore.space/ONE/one.json",
           "description": "长按复制链接地址",
           "icon": "https://9877.kstore.space/ONE/one.json"
+        },
+        {
+          "id": "cursor",
+          "name": "饭太硬",
+          "url": "http://www.饭太硬.com/tv",
+          "description": "长按复制链接地址",
+          "icon": "https://pan.szfx.top/down.php/e0337e2cfc30199b6d1383cae98d2f65.jpg"
+        },
+        {
+          "id": "site-1784022812534",
+          "name": "真心",
+          "url": "https://www.252035.xyz/z/FongMi.json",
+          "description": "长按复制链接地址",
+          "icon": "https://pan.szfx.top/down.php/dc9fe1d209803e3756a33ebcb164ac00.jpg"
+        },
+        {
+          "id": "site-1784023718943",
+          "name": "东篱",
+          "url": "https://16151.kstore.space",
+          "description": "长按复制链接地址",
+          "icon": "https://pan.szfx.top/down.php/9e5b2bf700b002336e21385ce6e8e7dc.jpg"
         }
       ]
     },
