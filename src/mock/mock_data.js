@@ -556,6 +556,20 @@ export const mockData = {
           "url": "https://github.com/fish2018/webhtv",
           "description": "WebHomeTV 基于FongMi二次开发，增强了 WebHome 自定义首页、App Native SDK、网盘链接检测 和 Nostr推荐首页。 这个项目的核心目标是让 CSP 站点首页可以变成一个真正可开发的网页应用：开发者可以用 HTML/CSS/JavaScript 定制首页，再通过 App 暴露的 Native 能力完成搜索、播放、跨域请求、资源代理、最近观看、网盘检测和状态同步。",
           "icon": "https://avatars.githubusercontent.com/u/34814105?v=4"
+        },
+        {
+          "id": "site-1784040622659",
+          "name": "FongMi影视",
+          "url": "https://github.com/FongMi/Release/tree/fongmi/apk",
+          "description": "它是一个高度可定制的开源影视播放器。很多国内常见的影视壳（如 OK影视、影视仓等）都参考或基于它进行二次开发。",
+          "icon": "https://avatars.githubusercontent.com/u/3471963?v=4"
+        },
+        {
+          "id": "site-1784041152117",
+          "name": "OK影视",
+          "url": "https://pan.quark.cn/s/f681ead4a389",
+          "description": "OK影视是一款基于 FongMi影视开发的影视播放器壳，它本身不内置影视资源，最大的优势是界面简洁、播放能力强、兼容性好。",
+          "icon": ""
         }
       ]
     }
