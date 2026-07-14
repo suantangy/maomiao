@@ -66,30 +66,30 @@ export const mockData = {
         {
           "id": "claude",
           "name": "牛二",
-          "url": "http://tvbox.王二小放牛娃.top",
+          "url": "https://9280.kstore.vip/newwex.json",
           "description": "长按复制链接地址",
-          "icon": "https://www.faviconextractor.com/favicon/tvbox.xn--4kq62z5rby2qupq9ub.top"
-        },
-        {
-          "id": "midjourney",
-          "name": "Midjourney",
-          "url": "https://www.midjourney.com",
-          "description": "AI图像生成工具",
-          "icon": "/sitelogo/www.midjourney.com.ico"
-        },
-        {
-          "id": "copilot",
-          "name": "GitHub Copilot",
-          "url": "https://github.com/features/copilot",
-          "description": "AI代码助手",
-          "icon": "/sitelogo/github.com.ico"
+          "icon": "https://www.faviconextractor.com/favicon/9280.kstore.vip"
         },
         {
           "id": "cursor",
-          "name": "Cursor",
-          "url": "https://cursor.sh",
-          "description": "AI代码编辑器",
-          "icon": "/sitelogo/cursor.sh.ico"
+          "name": "饭太硬",
+          "url": "http://www.饭太硬.com/tv",
+          "description": "长按复制链接地址",
+          "icon": "https://www.faviconextractor.com/favicon/www.xn--sss604efuw.com"
+        },
+        {
+          "id": "midjourney",
+          "name": "摸鱼儿",
+          "url": "http://摸鱼儿.cc",
+          "description": "长按复制链接地址",
+          "icon": "https://www.faviconextractor.com/favicon/xn--v4q818bf34b.cc"
+        },
+        {
+          "id": "copilot",
+          "name": "潇洒",
+          "url": "https://9877.kstore.space/ONE/one.json",
+          "description": "长按复制链接地址",
+          "icon": "https://9877.kstore.space/ONE/one.json"
         }
       ]
     },
