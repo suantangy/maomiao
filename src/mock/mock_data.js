@@ -2,8 +2,8 @@ export const mockData = {
   "categories": [
     {
       "id": "my-favorites",
-      "name": "不就",
-      "icon": "红果",
+      "name": "公益弹幕库",
+      "icon": "🍭",
       "order": 0,
       "sites": [
         {
