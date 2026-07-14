@@ -2,8 +2,8 @@ export const mockData = {
   "categories": [
     {
       "id": "my-favorites",
-      "name": "要去的组词",
-      "icon": "🎮",
+      "name": "呸呸呸",
+      "icon": "👥",
       "order": 0,
       "sites": [
         {
@@ -517,7 +517,6 @@ export const mockData = {
       ]
     }
   ],
-  "title": "刚刚好",
-  "search": "bing",
-  "_fileSha": "d42b28eff36011e808592b5a8fe963b41cab1f21"
+  "title": "猫猫导航🐱",
+  "search": "bing"
 }
