@@ -303,7 +303,7 @@ export const mockData = {
           "name": "代理加速",
           "url": "https://proxy.dhsv.eu.org/",
           "description": "",
-          "icon": ""
+          "icon": "https://tu.apao.kdns.fr/img/png/1784055957918-bf220e67-a92d-418a-bf1c-458268cdb4d8.png"
         }
       ]
     },
