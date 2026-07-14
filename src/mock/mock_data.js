@@ -292,18 +292,18 @@ export const mockData = {
           "icon": "https://temporary-email.org"
         },
         {
-          "id": "52pojie",
-          "name": "吾爱破解",
-          "url": "https://www.52pojie.cn/",
-          "description": "软件安全与破解技术论坛",
-          "icon": "/sitelogo/www.52pojie.cn.ico"
-        },
-        {
           "id": "v2ex",
           "name": "阿炮图床",
           "url": "https://tu.apao.kdns.fr",
           "description": "",
           "icon": "https://tu.apao.kdns.fr"
+        },
+        {
+          "id": "52pojie",
+          "name": "代理加速",
+          "url": "https://proxy.dhsv.eu.org/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
