@@ -38,7 +38,7 @@ export const mockData = {
     },
     {
       "id": "ai-tools",
-      "name": "TVBOX配置接口",
+      "name": "影视配置接口",
       "icon": "💡",
       "order": 1,
       "sites": [
