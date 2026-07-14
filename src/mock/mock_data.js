@@ -293,7 +293,7 @@ export const mockData = {
         },
         {
           "id": "v2ex",
-          "name": "阿炮图床",
+          "name": "简易图床",
           "url": "https://tu.apao.kdns.fr",
           "description": "",
           "icon": "https://tu.apao.kdns.fr"
