@@ -275,7 +275,7 @@ export const mockData = {
           "name": "玩偶监控",
           "url": "https://pan-site-monitor.douer.me",
           "description": "",
-          "icon": "https://pan-site-monitor.douer.me"
+          "icon": "https://tu.apao.kdns.fr/1784052543359-ee7ea91f-8625-4ee9-b159-f6cfc08b8a66.jpg"
         },
         {
           "id": "nodeseek",
