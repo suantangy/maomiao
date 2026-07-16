@@ -197,6 +197,13 @@ export const mockData = {
           "url": "https://jm.ctv.dpdns.org",
           "description": "",
           "icon": "https://tu.apao.kdns.fr/img/png/1784072896082-01bc8d9a-181f-4ed7-9ce6-7eb6c584ae88.png"
+        },
+        {
+          "id": "site-1784212020005",
+          "name": "短视频去水印",
+          "url": "http://www.kaniptv.cn/%E5%8E%BB%E6%B0%B4%E5%8D%B0/",
+          "description": "",
+          "icon": "https://images.suantangyu.cc.cd/file/1784211886586_IMG_20260716_222254.png"
         }
       ]
     },
